@@ -17,7 +17,7 @@
 
 ### Frontend　
 <div>
-    <img src="https://img.shields.io/badge/swift-#F05138?style=for-the-badge&logo=swift&logoColor=black">
+    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
