@@ -8,9 +8,9 @@
 ⚡️빠르게 많이 실패해서 성장하고 싶습니다.
 ***
 ### ✨ Tech Stack
-Backend　   
-Frontend　
-Etc　      
+### Backend　   
+### Frontend　
+### Etc　      
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musung1&layout=compact&theme=tokyonight" width="38%" />
 </a>
